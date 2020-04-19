@@ -238,7 +238,7 @@ int main(int argc, char *argv[])
         char fmt[32];
         snprintf(fmt, sizeof(fmt), "%ix%i:rgb", width, height);
         char *new_argv[argc + 3];
-        new_argv[0] = "i3lock";
+        new_argv[0] = "i3lock-color";
         new_argv[1] = "-i";
         new_argv[2] = "/dev/stdin";
         new_argv[3] = "--raw";
