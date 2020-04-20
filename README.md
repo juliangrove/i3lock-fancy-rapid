@@ -1,6 +1,6 @@
 # i3lock-fancy-rapid
 
-A fork of i3lock-fancy-rapid[https://github.com/yvbbrjdr/i3lock-fancy-rapid] that depends on i3lock-color[https://github.com/Raymo111/i3lock-color], rather than i3lock[https://github.com/i3/i3lock], thus allowing for some color customization.
+A fork of [i3lock-fancy-rapid](https://github.com/yvbbrjdr/i3lock-fancy-rapid) that depends on [i3lock-color](https://github.com/Raymo111/i3lock-color), rather than [i3lock](https://github.com/i3/i3lock), thus allowing for some color customization.
 
 ## Demo
 
