@@ -30,7 +30,7 @@ The above demo uses `i3lock-fancy-rapid 5 3`.
 ## Dependencies
 
 - [libX11](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) for screenshot
-- [i3lock-color](https://github.com/Raymo111/i3lock-colo) for locking
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) for locking
 
 ## License
 
